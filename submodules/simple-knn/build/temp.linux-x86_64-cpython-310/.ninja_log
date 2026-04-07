@@ -1,0 +1,4 @@
+# ninja log v7
+0	9729	1773075559857911425	/share/sopio/master_thesis/codebases/InstantSplatPP/submodules/simple-knn/build/temp.linux-x86_64-cpython-310/simple_knn.o	a88ca185ee3c37ad
+0	17658	1773075559857911425	/share/sopio/master_thesis/codebases/InstantSplatPP/submodules/simple-knn/build/temp.linux-x86_64-cpython-310/ext.o	97b44596c0576ac8
+1	41621	1773075559857911425	/share/sopio/master_thesis/codebases/InstantSplatPP/submodules/simple-knn/build/temp.linux-x86_64-cpython-310/spatial.o	bff5868474c58975
