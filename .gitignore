@@ -1,0 +1,5 @@
+output/
+.DS_Store
+__pycache__/
+output_infer_rotation_flattened/
+mast3r/checkpoints/
